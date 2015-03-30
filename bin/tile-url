@@ -1,5 +1,8 @@
 #!/usr/bin/env node
 
+/*
+ * Usage: bin/tile-url [viz.json url here]
+ */
 var lib = require('../viz-tile-url');
 var vizUrl = process.argv[2];
 
