@@ -1,13 +1,21 @@
 # cartodb-utils
 
-## viz-tile-url
+## Usage
 
 ```sh
-bin/tile-url [viz.json url here]
+npm install -g cartodb-utils
+```
+
+## `viz-url`
+
+### CLI
+
+```sh
+viz-url [viz.json url here]
 # tiles url for using in web map
 ```
 
-or programatically:
+### Programmatically:
 
 ```js
 var utils = require('cartodb-utils');
