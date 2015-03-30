@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Utils for working with cartodb",
   "main": "index.js",
+  "bin": {
+    "viz-url": "bin/tile-url"
+  },
   "keywords": [
     "cartodb",
     "named templates",
