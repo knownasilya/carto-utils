@@ -15,7 +15,7 @@ viz-url [viz.json url here]
 # tiles url for using in web map
 ```
 
-### Programmatically:
+### API
 
 ```js
 var utils = require('cartodb-utils');
