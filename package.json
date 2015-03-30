@@ -1,6 +1,6 @@
 {
   "name": "cartodb-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utils for working with cartodb",
   "main": "index.js",
   "bin": {
