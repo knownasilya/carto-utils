@@ -2,6 +2,7 @@
   "name": "cartodb-utils",
   "version": "1.0.3",
   "description": "Utils for working with cartodb",
+  "repository": "https://github.com/knownasilya/cartodb-utils",
   "main": "index.js",
   "bin": {
     "viz-url": "bin/tile-url"
