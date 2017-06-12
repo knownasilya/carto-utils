@@ -1,4 +1,4 @@
-# cartodb-utils
+# carto-utils
 
 ## Usage
 
